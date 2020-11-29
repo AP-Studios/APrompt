@@ -1,0 +1,13 @@
+╔════════════════════╗
+║Aprompt(V.2) Changes║
+╚════════════════════╝
+╔═══════════════════╗
+║ ! Important       ║
+║ * (bug) fixes     ║
+║ - st. removed     ║
+║ + add new ...     ║
+╚═══════════════════╝
+
+
+pre.alpha.1.0
+! The second version of Aprompt is now public!
