@@ -8,5 +8,3 @@ APrompt is a terminal program for Windows, with easy to remember commands. AProm
 5. move the shortcut file "APrompt" to your desktop or to the start bar
 
 That's it! We recommend starting APrompt from the shortcut. If you now click on the shortcut file, APrompt will (hopefully) start. APrompt is currently still in the alpha development phase.
-
-Translated with www.DeepL.com/Translator (free version)
