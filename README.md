@@ -5,6 +5,7 @@ APrompt is a terminal program for Windows, with easy to remember commands. AProm
 2. click Code/Download Zip in the APrompt repository
 3. save the file in your download folder.
 4. unzip the ZIP folder in any directory. (We recommend to unpack it in your user directory in a folder).
-5. move the shortcut file "APrompt" to your desktop or to the start bar
+5. move the shortcut file "APrompt" to your desktop or to the start bar.
+6. make sure that the shortcut File starts the "APrompt-cmd.bat" file.
 
 That's it! We recommend starting APrompt from the shortcut. If you now click on the shortcut file, APrompt will (hopefully) start. APrompt is currently still in the alpha development phase.
