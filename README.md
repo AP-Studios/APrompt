@@ -8,3 +8,6 @@ APrompt is a terminal program for Windows, with easy to remember commands. AProm
 4. unzip the ZIP folder in any directory. (We recommend to unpack it in your user directory in a folder)
 
 That's it! We recommend starting APrompt from the shortcut. If you now click on the shortcut file, APrompt will (hopefully) start. APrompt is currently still in the alpha development phase.
+
+# License
+Copyright (c) 2020 AP-Studios
