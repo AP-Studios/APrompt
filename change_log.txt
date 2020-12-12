@@ -9,5 +9,11 @@
 ╚═══════════════════╝
 
 
+pre.alpha.1.1
++Add the "del" command! Now you can delete files.
++New colorful design!
+*Many little fixes
+*General improvements
+
 pre.alpha.1.0
-! The second version of Aprompt is now public!
+!The second version of Aprompt is now public!
