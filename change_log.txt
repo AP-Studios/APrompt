@@ -8,6 +8,15 @@
 ║ + add new ...     ║
 ╚═══════════════════╝
 
+alpha.1.1
+!The command "cf" was renamed to "mkf".
+!The command "md" was renamed to "mkdir".
++Keywords was added! ($HOME, $PATH)
++The command "home" was added!
++New design for the "del" command!
+*Fixed a bug that make all letters to low letters.
+*Fixed a graphic bug in the "del" command.
+
 alpha.1.0
 +The command "url" was added! Now you can call a website from aprompt.
 +The command "sys" was added! Now you can execute Windows command with aprompt.
@@ -17,7 +26,7 @@ alpha.1.0
 *General improvments.
 
 pre.alpha.1.1
-+The "del" command was addes! Now you can delete files with aprompt.
++The "del" command was added! Now you can delete files with aprompt.
 +New colorful design!
 *Many little fixes
 *General improvements
