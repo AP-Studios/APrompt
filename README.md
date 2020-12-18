@@ -5,7 +5,7 @@ APrompt is a terminal program for Windows, with easy to remember commands. AProm
 1. Make sure that the JRE is installed on your Windows device.
 2. click Code/Download Zip in the APrompt repository.
 3. save the file in your download folder.
-4. unzip the ZIP folder in any directory. (We recommend to unpack it in your user directory in a folder)
+4. unzip the ZIP folder in any directory. (We recommend to unpack it in in a folder in your user directory)
 
 That's it! We recommend starting APrompt from the shortcut. If you now click on the shortcut file, APrompt will (hopefully) start. APrompt is currently still in the alpha development phase.
 
