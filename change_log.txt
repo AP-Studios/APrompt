@@ -8,6 +8,15 @@
 ║ + add new ...     ║
 ╚═══════════════════╝
 
+alpha.1.2
+!The command "del" was renamed to "dlt".
++The command "print" was added!
++The command ".." was added!
++The APrompt Scriptlanguage was added! (See Test_cases)
+ (See Help.txt for a important info for .aprompt files)
+*General fixes
+
+
 alpha.1.1
 !The command "cf" was renamed to "mkf".
 !The command "md" was renamed to "mkdir".
@@ -19,7 +28,7 @@ alpha.1.1
 
 alpha.1.0
 +The command "url" was added! Now you can call a website from aprompt.
-+The command "sys" was added! Now you can execute Windows command with aprompt.
++The command "sys" was added! Now you can execute a Windows command with aprompt.
 +Error messages are red now!
 *The error message INVALID_COMMAND was improved.
 *The help list was improved.
