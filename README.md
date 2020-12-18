@@ -11,4 +11,5 @@ That's it! We recommend starting APrompt from the shortcut. If you now click on 
 
 # License
 Copyright (c) 2020 AP-Studios
+
 Licensed under the [MIT license](https://github.com/AP-Studios/APrompt/blob/main/LICENCE)
