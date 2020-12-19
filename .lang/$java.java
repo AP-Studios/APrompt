@@ -77,5 +77,26 @@ public class default {
         default(null);
         default(null);
         default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
+        default(null);
     }
 }
