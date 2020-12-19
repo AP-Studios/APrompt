@@ -1,2 +1,2 @@
-An .aprompt file must be opened with the aprompt.bat file.
+An .apr file must be opened with the aprompt.bat file.
 (C:\Program Files\AP-Studios\APrompt\aprompt.bat)

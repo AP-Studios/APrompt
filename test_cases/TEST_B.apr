@@ -1,0 +1,3 @@
+sys title Programm
+print Home Dir: $HOME
+exit

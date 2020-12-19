@@ -8,13 +8,20 @@
 ║ + add new ...     ║
 ╚═══════════════════╝
 
+pre.beta.1.0
+!The file type ".aprompt" was renamed to ".apr".
++The command "ls" was added!
++The command "st" was added!
+*General improvments.
+*Improved the help command.
+
 alpha.1.2
 !The command "del" was renamed to "dlt".
 +The command "print" was added!
 +The command ".." was added!
 +The APrompt Scriptlanguage was added! (See Test_cases)
  (See Help.txt for a important info for .aprompt files)
-*General fixes
+*General improvments.
 
 
 alpha.1.1
