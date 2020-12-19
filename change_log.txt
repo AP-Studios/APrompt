@@ -8,6 +8,11 @@
 ║ + add new ...     ║
 ╚═══════════════════╝
 
+pre.beta.1.1
+!The file "aprompt.bat" was renamed to "aprompt_script.bat".
+!The file "aprompt-run.bat" was renamed to "aprompt_run.bat"
+*General improvments.
+
 pre.beta.1.0
 !The file type ".aprompt" was renamed to ".apr".
 +The command "ls" was added!
