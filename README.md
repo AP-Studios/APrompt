@@ -2,7 +2,7 @@
 APrompt is a terminal program for Windows, with easy to remember commands. APrompt is based on Java and therefore the Java Runtime Environment (JRE) must be installed on your system. APrompt was tested in: Windows10
 
 # How to install
-1. Make sure that the JRE is installed on your Windows device.
+1. Make sure that the [JRE](https://www.java.com/en/download/)) is installed on your Windows device.
 2. click Code/Download Zip in the APrompt repository.
 3. Save the file in your download folder.
 4. Unzip the ZIP folder here: C:\Program Files\AP-Studios
