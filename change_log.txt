@@ -8,6 +8,16 @@
 ║ + add new ...     ║
 ╚═══════════════════╝
 
+pre.beta.1.2
+!In the ".properties" file, only change text that is 
+ enclosed in quotation marks. Do not remove lines.
+!The Plugin folder was renamed from "Plugins" "to plugins"
+ INFO:The plugin folder is actually useless.
++The APrompt propertie File (.properties) was added!
++The propertie DefaultPath was added!
++The Keyword "$APROMPT" was added!
+*General improvments.
+
 pre.beta.1.1
 !The file "aprompt.bat" was renamed to "aprompt_script.bat".
 !The file "aprompt-run.bat" was renamed to "aprompt_run.bat"
